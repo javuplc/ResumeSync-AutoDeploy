@@ -109,3 +109,6 @@ I’m open to mentorship, freelance roles, GRC opportunities, and automation pro
 > “Update once. Deploy everywhere.”  
 > — ResumeSync Philosophy
 Update README with full documentation and project roadmap
+echo .idea/ >> .gitignore
+echo __pycache__/ >> .gitignore
+echo *.pyc >> .gitignore
